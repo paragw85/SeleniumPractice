@@ -22,7 +22,7 @@ public class WebElementDemo02 {
 		String Totalvalue=total.getText();
 		System.out.println(Totalvalue);
 		if(Totalvalue.equals("30")) {
-			System.out.println("Addition is correct");
+			System.out.println("Addition is correct and accurate");
 			
 		}else
 			System.out.println("Wrong Addition");
