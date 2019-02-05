@@ -20,7 +20,7 @@ public class FirstSelenium {
 
 			System.out.println("Currect Website and Commit");
 		}else{
-			System.out.println("Wrong Website ooooo no");
+			System.out.println("Wrong Website");
 		}
 		System.out.println(driver.getPageSource().length());
 		driver.quit();
